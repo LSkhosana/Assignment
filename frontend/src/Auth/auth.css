@@ -1,0 +1,10 @@
+.Email{
+    display: flex;
+    flex-direction: column;
+}
+
+.Password{
+    display: flex;
+    flex-direction: column;
+
+}
